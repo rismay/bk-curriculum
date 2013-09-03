@@ -1,0 +1,143 @@
+GIT + COMMAND LINE + ENV
+
+THE INTERNET (ashley)
+
+* SWBAT explain what the client and the server are, and their role in serving a simple website. 
+* SWBAT recognize and identify the specific tasks of frontend and backend developers, and be able to confidently discuss the languages, frameworks, and tools unique to each discipline.
+
+* SWBAT rehearse a brief history of web browsers, and in doing so, identify why the evolution of the browser is relevant to web development. 
+
+* SWBAT explain what web standards are, how they are defined, and their relationship to browsers, working groups, and standards bodies.
+
+* SWBAT explain the significance of html5 and css3 and identify the subsequent implications for the future of web standards.
+
+* SWBAT explain what the word, "semantic", means in relation to web development and articulate its role in the evolution of web standards, programming styles, and best practices.
+
+* SWBAT articulate why performance is a particular concern in web development, as well as a high level understanding of best practices for improving the performance of any website or web app.
+
+* SWBAT employ browser developer tools to effectively investigate and debug both local and remote websites and apps.
+
+HTML/HAML + CSS/SASS (ashley)
+
+* SWBAT identify the roles of HTML (content), CSS (styles), and JS (interaction), in the creation of a website and recognize and remedy classic antipatterns that demonstrate a conflation of these roles.
+
+* SWBAT write and recognize the syntax of element, id, class, and compound selectors and understand the DOM elements they apply to.
+
+* SWBAT employ specificity and location to properly control the cascade of their style declarations, and articulate this by employing a strategy that quantifies the priority of a selector based on its composition.
+
+* floats + clears (refactoring bad clear strategies as a learning lab)
+* box model (content, padding, border, margin, margin collapsing)
+* overflow
+* positioning: static, relative, absolute, fixed + TLBR
+* DRY CSS: use inheritance, combine selectors, selector abstraction, using display types
+* style shorthand
+* display: block, inline, inline block
+* default html element display types
+* centering: block vs inline elements
+* resources: whats good whats not
+* twitter bootstrap: how to use
+
+* running SASS in standalone
+* using SASS + compass in Sinatra
+* using SASS + compass in Rails
+* nesting selector syntax in Sinatra
+* SASS variables and mixins
+* selector inheritance in SASS
+* creating custom SASS helpers
+
+* ERB syntax
+* HAML syntax
+
+JS + JQUERY (ashley)
+
+* difference between js and jquery
+* using libraries - do it, but wisely; best practices
+
+* values, variables, control flow
+* functions
+* data structures: objects + arrays
+* error handling
+
+* functional
+* object oriented
+
+* searching
+* modularity
+* web programming
+* wtf is the DOM
+* browser events
+* review HTTP requests
+
+* JSON
+
+* jquery is terrible. long live jquery.
+* when to use jquery and why.
+* review css selector syntax
+* parent/child ancestor/descendant relationship (review)
+* add/remove/toggle class
+* append prepend before after
+* browser events in jquery
+* callbacks lmao
+
+* change markup NOT css
+
+* templating with mustache
+* frontend MVCs
+* d3 or hi charts?
+
+
+RUBY (ashley)
+
+* rspec, guard, irb, ruby keyword, installation
+
+* variables
+* what does dynamic typing mean?
+
+* arrays and hashes
+* iteration + enumerable methods
+* negotiating complex data structures
+
+* methods + parameters + return values
+* chaining
+* control flow structures
+
+* classes + objects + modules
+* instance variables and methods
+* class variables and constants
+* inheritance
+
+* rubygems - what are they
+* oauth
+* nokogiri
+
+* functional vs oo ruby
+* object interfaces
+* refactoring anti patterns
+* metaprogramming (method_missing<- mention when talking about inheritance)
+
+TESTING
+
+RACK + SINATRA (ashley)
+
+* web applications: server side? client side?
+* ruby server side applications
+* web dev is fancy string concatenation
+* single page app with rack
+* why the url and routes are so goddamn important
+* sinatra routing
+* sinatra app architecture
+* separation of concerns - keeping your logic out of your views
+* using partials
+* sinatra models + concerns
+* rubygems with bundler
+* sinatra and datamapper
+* sinatra and active record
+
+DATABASES + SQL + DATA MODELING
+
+RAILS - BEGINNER
+
+RAILS - ADVANCED
+
+14 weeks - 4 project
+
