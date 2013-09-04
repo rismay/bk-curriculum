@@ -158,6 +158,8 @@
 
 * SWBAT define recursion, write and recognize a recursive function, and be able to explain the pros and cons, particularly performace concerns, when using recursive functions in JS.
 
+* SWBAT articulate the values and practices of functional programming and be able to refactor their code using higher-order functions, modifying functions, operator functions, partial application, and composition to improve the abstraction of their javascript.
+
 #### Data Structures: Objects and Arrays
 
 * SWBAT understand objects as collections of properties, and be able to write and read the syntax to define an object, add a property/value, delete a property/value, and check if a property exists in an object.
@@ -184,9 +186,26 @@
 
 * SWBAT employ Error objects to provide a description of the exception they raise.
 
-#### Functional and Object-Oriented Styles and Best Practices
+#### Object Orientation in Javascript
 
-* SWBAT articulate the values and practices of functional programming and be able to refactor their code using higher-order functions, modifying functions, operator functions, partial application, and composition to improve the abstraction of their javascript.
+* SWBAT design objects with a limited, well-defined interface and be able to articulate the virtues of such.
+
+* SWBAT attach functions to objects, or define functions within them, as well as call such methods using dot-notation, `apply`, and `call`.
+
+* SWBAT articulate prototypical inheritance, including the process by which the search for a value travel up the ancestor tree from object to prototype to prototype of prototype, etc. 
+
+* SWBAT differeniate between fetching and setting a value in an object as it relates to that object's position in the inheritance hierarchy.
+
+* SWBAT explain when/if the modification of a prototype will modify an object of that type.
+
+* SWBAT articulate the concept of `this` and explain how it is used implicitly and can be used explcitly in a simple javascript program.
+
+* SWBAT write constructors for objects using an object's prototype.
+
+
+
+
+
 
 
 * searching
