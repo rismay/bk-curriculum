@@ -68,6 +68,9 @@ SWBAT instantiate a class.
 SWBAT assign instance variables to the instance of the object in the initialize method and refer to them later.
 SWBAT assign instances of other objects to instance variables.
 SWBAT understand that there are classes that come with Ruby, and you can define your own, all follow the same rules.
+SWBAT describe the reason to create a class.
+SWBAT reopen and add methods to a class.
+SWBAT create a program that defines two classes and "links" them together calling methods on one class from within another class.
 
 Modules
 
