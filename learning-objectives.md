@@ -53,6 +53,14 @@
 
 * SWBAT apply twitter bootstrap, HTML5 boilerplate, and CSS resets to expedite their frontend design experience, while also being able to articulate the tradeoffs these tools introduce.
 
+###WEB DESIGN
+
+* SWBAT define the terms 'progressive enhancement' and 'graceful degradation' and articulate, at a high level, the best practices that compose these guiding principles.
+
+* SWBAT identify responsive web design patterns (fluid grid, @media queries, collapsing navbars) and have a high-level understanding of their implementation.
+
+* SWBAT articulate the specific and unique concerns introduced by designing for mobile devices (javascript support, character encoding, performance) and have a high-level understanding of their implementation (user agent sniffing, offline caching).
+
 ###SASS
 
 * SWBAT employ SASS as a tool to create maintainable, modular stylesheets by using the variable and mixin features.
@@ -81,8 +89,11 @@
 
 ##JS + JQUERY
 
-* difference between js and jquery
-* using libraries - do it, but wisely; best practices
+* SWBAT articulate the relationship between javascript and the jQuery and explain what the tradeoffs are for using each.
+
+* SWBAT search for, evaluate and employ javascript libraries intelligently, with an eye towards performance, code maintainability, and user experience.
+
+* SWBAT articulate and intelligently engage with the current debate over progressive enhancement vs javascript MVC usage.
 
 ### JAVASCRIPT FROM THE CONSOLE: STYLE AND BASICS
 
