@@ -103,6 +103,8 @@
 
 * SWBAT recognize and write the syntax for both a single line and block comment in JS.
 
+* SWBAT define and use the term 'corner case', and be able to identify and properly address them in their code.
+
 #### Values, Variables, and Control Flow
 * SWBAT identify and use the `var` keyword to assign to variables the six basic types of values in JS: numbers, strings, Booleans, objects, functions, and undefined values.
 
@@ -113,6 +115,8 @@
 * SWBAT perform basic arithmetic in simple JS programs and the JS console, using `+`, `-`, `*`, `/`, and `%`.
 
 * SWBAT differentiate between the use of `'` and `"` for string values and be able to appropriately escape special characters using `\` when required.
+
+* SWBAT manipulate string values by using the `split`, `charAt`, and `slice` methods.
 
 * SWBAT identify and articulate the difference between unary and binary operators (e.g. `typeof "x"`, vs `10 > 2`).
 
@@ -156,8 +160,21 @@
 
 #### Data Structures: Objects and Arrays
 
+* SWBAT understand objects as collections of properties, and be able to write and read the syntax to define an object, add a property/value, delete a property/value, and check if a property exists in an object.
 
-* error handling
+* SWBAT define the term 'mutability' and explain the relationship between the value of an object and a reference to it, as well the implications this has for comparing objects.
+
+* SWBAT identify an Array as a special type of object, and be able to intelligently decide when and why to use an Array instead of an object.
+
+* SWBAT manipulate an array employing the `pop`, `join`, and `push` methods.
+
+* SWBAT to iterate over arrays and objects using previously learned control flow structures as well as `for ... in`.
+
+* SWBAT identify which properties of an object are 'enumerable' and which are not, and be able to explain why this is the case and the implications of such.
+
+* SWBAT define and use constructors to creat objects from pre-existing JS classes.
+
+#### Error Handling
 
 * functional
 * object oriented
