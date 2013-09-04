@@ -1,0 +1,33 @@
+SWBAT build a simple version of Rails.
+
+SWBAT implement the "presenter" pattern using both a homegrown and using the Draper gem.
+
+SWBAT remove logic from their controllers and into models, and PORO.
+
+SWBAT refactor their code to comply with the law of demeter when it makes sense.
+
+SWBAT describe why "fat model skinny controller" is a best practice.
+
+SWBAT list the costs and benefits of building the same application using inheritance vs composition.
+
+SWBAT modularize their applications by refactoring groups of methods or behavoir into shared modules.
+
+SWBAT process things aynchronously using CRON or a background processing gem such as resque.
+
+SWBAT refactor "fat models" that voilate the SRP and describe why this is a best practice.
+
+SWBAT write their own authentication logic from scatch.
+
+SWBAT write their own authorization logic from scratch.
+
+SWBAT use active record validations to implement business rules which require certain criteria be met when creating new instances of objects.
+
+SWBAT use active record callbacks to implement business logic which needs to happen at some point in an objects life cycle.
+
+SWBAT implement HTTP caching as well as action and page caching.
+
+SWBAT retrieve and manipulate data from external sources such as the Twitter API.
+
+SWBAT authenicate with external services using oauth.
+
+SWBAT build a simple webserver.
