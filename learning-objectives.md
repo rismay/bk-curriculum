@@ -200,17 +200,17 @@
 
 * SWBAT articulate the concept of `this` and explain how it is used implicitly and can be used explcitly in a simple javascript program.
 
-* SWBAT write constructors for objects using an object's prototype.
+* SWBAT employ polymorphism to create and refactor an interface and the objects it interacts with to decouple their code and create more maintainable javascript programs.
 
+* SWBAT define and differentiate the terms 'constructor' and 'prototype', and use each accordingly.
 
+* SWBAT define types for the purposes of using inheritance in 2 ways: 1) cloning the constructor and 2) cloning the prototype. They should also be able to explain the pros and cons of each technique.
 
+* SWBAT use the `instanceOf` operator to determine whether an object is based on a certain prototype.
 
+* SWBAT define multiple-inheritance and explain, at a high-level, explain how it might be implemented in a simple JS program, but why it is generally a bad practice.
 
-
-
-* searching
-* modularity
-* side effects
+* modules??
 
 ### JAVACSRIPT AND THE BROWSER/WEB
 * web programming
