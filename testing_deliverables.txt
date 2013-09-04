@@ -1,8 +1,8 @@
-SWBAT write unit tests using rspec/minitest of the application models.
+SWBAT write unit tests using rspec/minitest for the public methods in a class.  These tests should be able to set up expectations of what the code should do, and the code should pass.
 
-SWBAT write tests for the code they wish they had, and then implement that code so that their tests pass.
+SWBAT write a test for the code you wish you had, run the test to verify it fails, and then implement that code so that their tests pass.
 
 SWBAT articulate cases where testing is not useful, excessive, or doesn't deliver the value to justify its costs.
 
-SWBAT mock objects in their tests and stub methods and their return values on those objects.
+SWBAT replace an instance of a class with a mock objects in a tests and stub methods and their return values on that object.
 
