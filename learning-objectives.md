@@ -1,11 +1,14 @@
 ### NYC WEB DEVELOPMENT FELLOWSHIP
 # LEARNING OBJECTIVES: Fall 2013
 
+4 weeks - prework
+14 weeks - content work
+4 weeks - project work
 ** SWBAT == Students Will Be Able To
 
 ##GIT + COMMAND LINE + ENV
 
-##THE INTERNET (ashley)
+##THE INTERNET
 
 * SWBAT explain what the client and the server are, and their role in serving a simple website. 
 * SWBAT recognize and identify the specific tasks of frontend and backend developers, and be able to confidently discuss the languages, frameworks, and tools unique to each discipline.
@@ -22,7 +25,7 @@
 
 * SWBAT employ browser developer tools to effectively investigate and debug both local and remote websites and apps.
 
-## MARKUP AND STYLES (ashley)
+## MARKUP AND STYLES 
 
 ###HTML AND CSS
 
@@ -75,7 +78,7 @@
 
 * SWBAT employ filters while using HAML to address specific content markup needs.
 
-##JS + JQUERY (ashley)
+##JS + JQUERY
 
 * difference between js and jquery
 * using libraries - do it, but wisely; best practices
@@ -113,7 +116,7 @@
 * d3 or hi charts?
 
 
-RUBY (ashley)
+##RUBY
 
 * rspec, guard, irb, ruby keyword, installation
 
@@ -142,9 +145,9 @@ RUBY (ashley)
 * refactoring anti patterns
 * metaprogramming (method_missing<- mention when talking about inheritance)
 
-TESTING
+##TESTING
 
-RACK + SINATRA (ashley)
+##RACK + SINATRA
 
 * web applications: server side? client side?
 * ruby server side applications
@@ -160,11 +163,11 @@ RACK + SINATRA (ashley)
 * sinatra and datamapper
 * sinatra and active record
 
-DATABASES + SQL + DATA MODELING
+##DATABASES + SQL + DATA MODELING
 
-RAILS - BEGINNER
+##RAILS - BEGINNER
 
-RAILS - ADVANCED
+##RAILS - ADVANCED
 
-14 weeks - 4 project
+
 
