@@ -59,7 +59,7 @@
 
 * SWBAT identify responsive web design patterns (fluid grid, @media queries, collapsing navbars) and have a high-level understanding of their implementation.
 
-* SWBAT articulate the specific and unique concerns introduced by designing for mobile devices (javascript support, character encoding, performance) and have a high-level understanding of their implementation (user agent sniffing, offline caching).
+* SWBAT articulate the specific and unique concerns introduced by designing for mobile devices (screen dimensions, character encoding, performance) and have a high-level understanding of their implementation (user agent sniffing, offline caching).
 
 ###SASS
 
@@ -101,10 +101,14 @@
 
 * SWBAT properly ident and format their code according to JS best practices.
 
-#### Values and Variables
+* SWBAT recognize and write the syntax for both a single line and block comment in JS.
+
+#### Values, Variables, and Control Flow
 * SWBAT identify and use the `var` keyword to assign to variables the six basic types of values in JS: numbers, strings, Booleans, objects, functions, and undefined values.
 
 * SWBAT articulate the relationship between variables, their values, and the values as data in memory.
+
+* SWBAT differentiate between statically and dynamically typed languages and explain the pros and cons of each.
 
 * SWBAT perform basic arithmetic in simple JS programs and the JS console, using `+`, `-`, `*`, `/`, and `%`.
 
@@ -114,9 +118,23 @@
 
 * SWBAT use comparison operators to produce boolean values, and understand the assumptions Javascript makes for non-quantitative values (e.g. capital chars > lowercase chars).
 
+* SWBAT define automatic type conversion in JS, identify those situations where it will occur, articualte the dangers of it, and employ the `===` and `!==` operators to avoid it.
+
 * SWBAT articulate the difference between expressions and statements and describe their relationship in the context of a simple program.
 
-* SWBAT define what a program's "environment" is, recognize the elements within a simple program that comprise its environment, and understand those things which can cause an environment to change.
+* SWBAT define what a program's "environment" is, recognize the elements within a simple program that comprise its environment, and understand those events which can cause an environment to change.
+
+* SWBAT use shorthand, e.g. `+=` or `++`, to succinctly update variable values.
+
+* SWBAT employ the `if`, `while`, `do`, `for` and `switch` statements to conditionally control the flow of a simple javascript program.
+
+* SWBAT understand how and when to employ the `break` keyword to escape a loop.
+
+* SWBAT define and differnetiate 'local scope', 'global scope' and 'nested scope', and be able to employ this understanding to appropriately declare functions and variables in a simple javascript program.
+
+* SWBAT identify the 'scope' of a variable, and use the location of a variable declaration to identify where that variable is accessible.
+
+#### Functions
 
 * SWBAT identify and write syntactically correct JS functions that are either named, or anonymous, which take parameters and return values.
 
@@ -124,17 +142,21 @@
 
 * SWBAT employ the `prompt`, `confirm`, `alert` and `print` functions to create a simple console user interface.
 
-* SWBAT use shorthand to succinctly update variable values
+* SWBAT articulate how 'definition order' implementation in javascript allows one to define functions anywhere in a simple javascript program.
 
-#### Control Flow
+* SWBAT articulate how the stack coordinates the execution of a program by saving the context a function is in when it is called so that it can return to the proper time/space during runtime.
 
-* SWBAT employ the `if`, `while`, `do`, `for` and `switch` statements to conditionally control the flow of a simple javascript program.
+* SWBAT explain how "everything in Javascript is a value", and the implications for how functions are implemented and should be employed.
 
-* SWBAT understand how and when to employ the `break` keyword to escape a loop.
+* SWBAT define, recognize, and write a closure, while also being able to articulate why the structure exists.
+
+* SWBAT identify side effects in their function definitions and be able to "purify" them whenever possible.
+
+* SWBAT define recursion, write and recognize a recursive function, and be able to explain the pros and cons, particularly performace concerns, when using recursive functions in JS.
+
+#### Data Structures: Objects and Arrays
 
 
-
-* data structures: objects + arrays
 * error handling
 
 * functional
