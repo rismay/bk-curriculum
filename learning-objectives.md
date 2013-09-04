@@ -1,9 +1,10 @@
 ### NYC WEB DEVELOPMENT FELLOWSHIP
 # LEARNING OBJECTIVES: Fall 2013
 
-4 weeks - prework
-14 weeks - content work
-4 weeks - project work
+ - 4 weeks - prework
+ - 14 weeks - content work
+ - 4 weeks - project work
+ 
 ** SWBAT == Students Will Be Able To
 
 ##GIT + COMMAND LINE + ENV
@@ -145,7 +146,6 @@
 * instance variables and methods
 * class variables and constants
 * inheritance
-
 
 ### RUBYGEMS
 * rubygems - what are they
