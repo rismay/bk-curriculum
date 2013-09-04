@@ -48,7 +48,13 @@ SWBAT create methods with default values for arguments.
 SWBAT implicitly return values from methods.
 SWBAT explicity return values from methods.
 SWBAT conditionally exit early from methods 
-
+SWBAT understand method scope by only accessing variables that are passed into their method via its arguments.
+SWBAT understand the difference between printing to the console and returning a value by assigning the return value of a function to a local variable and printing vs returning a variable in the method.
+SWBAT follow the flow of execution by accurately describing the flow of a program that has methods that call multiple other methods.
+SWBAT conditionally assign the value of a variable and return it.
+SWBAT use = for assignment and == for testing equality.
+SWBAT check to see if something is nothing || nil by calling the nil? method.
+SWBAT use the || operator.
 
 ### METHODS
 * methods + parameters + return values
