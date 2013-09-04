@@ -172,12 +172,22 @@
 
 * SWBAT identify which properties of an object are 'enumerable' and which are not, and be able to explain why this is the case and the implications of such.
 
-* SWBAT define and use constructors to creat objects from pre-existing JS classes.
+* SWBAT define and use constructors to create objects from pre-existing JS classes.
 
 #### Error Handling
 
-* functional
-* object oriented
+* SWBAT approach error handling with the understanding that the program should fail as quickly as possible, in a way that makes it clear what went wrong.
+
+* SWBAT differentiate between errors caused by programmer error and runtime errors and handle each appropriately according to JS best practices.
+
+* SWBAT use the keywords `try`, `throw`, and `finally`, to catch exceptions in the context where/when an error occured, i.e. without unwinding the stack.
+
+* SWBAT employ Error objects to provide a description of the exception they raise.
+
+#### Functional and Object-Oriented Styles and Best Practices
+
+* SWBAT articulate the values and practices of functional programming and be able to refactor their code using higher-order functions, modifying functions, operator functions, partial application, and composition to improve the abstraction of their javascript.
+
 
 * searching
 * modularity
