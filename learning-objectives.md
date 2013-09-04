@@ -42,7 +42,7 @@
 
 * SWBAT refactor (or DRY up) stylesheets by using inheritance, combining selectors, employing selector abstraction, and using display types.
 
-* SWBAT properly use and identify style shorthand, and be abl to articulate when and why to use it.
+* SWBAT properly use and identify style shorthand, and be able to articulate when and why to use it.
 
 * SWBAT identify the default display type of any common html and element and be able to explain how and why to use the display attribute to change an elements display type.
 

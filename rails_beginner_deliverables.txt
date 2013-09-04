@@ -40,8 +40,6 @@ SWBAT describe the parts of Rails that break OOP guidelines.
 
 SWBAT describe the lifecycle of a request and which pieces of the Rails stack it touches along the way.
 
-SWBAT build a simple webserver.
-
 SWBAT list the types of things that are statically served and dynamically generated.
 
 SWBAT add Rack Middleware to an application and describe where Rack sits in the stack.
