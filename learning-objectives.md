@@ -125,28 +125,34 @@
 
 ##RUBY
 
+### ENVIRONMENT
 * rspec, guard, irb, ruby keyword, installation
 
+### PROGRAMMING BASICS, DATA STRUCTURES and ITERATION
 * variables
 * what does dynamic typing mean?
-
 * arrays and hashes
 * iteration + enumerable methods
 * negotiating complex data structures
 
+### METHODS
 * methods + parameters + return values
 * chaining
 * control flow structures
 
+### OBJECTS
 * classes + objects + modules
 * instance variables and methods
 * class variables and constants
 * inheritance
 
+
+### RUBYGEMS
 * rubygems - what are they
 * oauth
 * nokogiri
 
+### PROGRAMMING STYLE AND BEST PRACTICES
 * functional vs oo ruby
 * object interfaces
 * refactoring anti patterns
