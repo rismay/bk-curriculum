@@ -1,7 +1,7 @@
-SWBAT understand the raison d'etre of git and VCS in general.
+SWBAT articulate the raison d'etre of git and VCS in general.
 SWBAT initialize git to start monitoring a new project.
-SWBAT describe the difference between git's staging and unstaged index.
-SWBAT commit changed files their git repository.
+SWBAT demonstrate the difference between git's staging and unstaged index by changing multiple files but only commiting some and unstaging certain files.
+SWBAT commit changed files to a git repository.
 SWBAT create and change between git branches using a standard development workflow.
 SWBAT checkout files and branches from their repository.
 SWBAT merge branches, usually feature branches into the master or staging branch.
