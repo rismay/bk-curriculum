@@ -1,0 +1,73 @@
+##RUBY
+
+### ENVIRONMENT
+
+* rspec, guard, irb, ruby keyword, installation
+
+SWBAT dynamically evaluate Ruby code in a REPL using irb.
+SWBAT run ruby programs from the command line using the ruby executable.
+SWBAT assign a value to a local variable.
+
+Arrays and Hashes
+
+SWBAT manipulate arrays including adding data, removing data, indexing into them, sorting them, determining if an element is in an array.
+SWBAT add data, remove data, index into, and sort nested arrays.
+SWBAT use hashes to do the following: add key value pairs, retrieve values using a key.
+
+Enumerables(hashes and arrays)
+
+SWBAT iterate over enumerable objects passing a block to the method to be called on each iteration.
+SWBAT add elements to a collection whose scope persists after the end of the iteration.
+SWBAT return an enumerable from one enumerable method and chain another enumerable immediately after.
+SWBAT iterate over an enumerable doing something with each key and value that gets yielded (for example adding all values greater than 10 to an array)
+SWBAT skip an iteration.
+SWBAT break out of an iteration early.
+
+Nested data structures
+
+SWBAT iterate over one data structure that yields another enumerable object and iterate over those enumerable objects and applying supplying a block to the "inner loop" to be called on each step of the "inner loop".
+SWBAT add/remove/replace elements in deeply nested data structures while keeping track of the scope introduced by the iterators.
+
+### PROGRAMMING BASICS, DATA STRUCTURES and ITERATION
+* variables
+* what does dynamic typing mean?
+* arrays and hashes
+* negotiating complex data structures
+
+Enumerables
+
+Errors
+
+SWBAT handle errors gracefully.
+SWBAT determine which step of an iteration an error is happening on by rescuing exceptions.
+
+Methods
+SWBAT write resuable chunks of code which accept variable inputs and can be called aka methods.
+SWBAT create methods with variable number of arguments.
+SWBAT create methods with default values for arguments.
+SWBAT implicitly return values from methods.
+SWBAT explicity return values from methods.
+SWBAT conditionally exit early from methods 
+
+
+### METHODS
+* methods + parameters + return values
+* chaining
+* control flow structures
+
+### OBJECTS
+* classes + objects + modules
+* instance variables and methods
+* class variables and constants
+* inheritance
+
+### RUBYGEMS
+* rubygems - what are they
+* oauth
+* nokogiri
+
+### PROGRAMMING STYLE AND BEST PRACTICES
+* functional vs oo ruby
+* object interfaces
+* refactoring anti patterns
+* metaprogramming (method_missing<- mention when talking about inheritance)
