@@ -65,12 +65,15 @@
 
 * SWBAT creating custom SASS helpers
 
-###ERB and HAML
+###ERB, HAML, and MARKDOWN
 
-* ERB syntax
-* HAML syntax
+* SWBAT write, read, edit, and debug, basic ERB syntax, including loops, iteration, method calls, and interpolation.
 
-###MARKDOWN
+* SWBAT write, read, edit, and debug, basic HAML syntax, including loops, iteration, method calls, and interpolation.
+
+* SWBAT write, read, edit, and debug, basic Markdown syntax, including headings, lists, nested lists, code blocks, and inline code.
+
+* SWBAT employ filters while using HAML to address specific content markup needs.
 
 ##JS + JQUERY (ashley)
 
