@@ -1,6 +1,6 @@
-GIT + COMMAND LINE + ENV
+##GIT + COMMAND LINE + ENV
 
-THE INTERNET (ashley)
+##THE INTERNET (ashley)
 
 * SWBAT explain what the client and the server are, and their role in serving a simple website. 
 * SWBAT recognize and identify the specific tasks of frontend and backend developers, and be able to confidently discuss the languages, frameworks, and tools unique to each discipline.
@@ -17,7 +17,9 @@ THE INTERNET (ashley)
 
 * SWBAT employ browser developer tools to effectively investigate and debug both local and remote websites and apps.
 
-HTML/HAML + CSS/SASS (ashley)
+## MARKUP AND STYLES (ashley)
+
+###HTML AND CSS
 
 * SWBAT identify the roles of HTML (content), CSS (styles), and JS (interaction), in the creation of a website and recognize and remedy classic antipatterns that demonstrate a conflation of these roles.
 
@@ -25,17 +27,24 @@ HTML/HAML + CSS/SASS (ashley)
 
 * SWBAT employ specificity and location to properly control the cascade of their style declarations, and articulate this by employing a strategy that quantifies the priority of a selector based on its composition.
 
-* floats + clears (refactoring bad clear strategies as a learning lab)
-* box model (content, padding, border, margin, margin collapsing)
-* overflow
-* positioning: static, relative, absolute, fixed + TLBR
-* DRY CSS: use inheritance, combine selectors, selector abstraction, using display types
-* style shorthand
-* display: block, inline, inline block
-* default html element display types
-* centering: block vs inline elements
-* resources: whats good whats not
-* twitter bootstrap: how to use
+* SWBAT position elements using both the float and position attributes, and be able to properly articulate the relationship positioned elements now have with other elements in the DOM.
+
+* SWBAT articulate historical attempts at clear solutions, identify them as anti-patterns, and successfully refactor them to properly implement the semantic cross-browser friendly clear fix. 
+* SWBAT employ an understanding of the box model attributes (content, padding, border, margin) to successfully space elements and predict element width and height.
+
+* SWBAT refactor (or DRY up) stylesheets by using inheritance, combining selectors, employing selector abstraction, and using display types.
+
+* SWBAT properly use and identify style shorthand, and be abl to articulate when and why to use it.
+
+* SWBAT identify the default display type of any common html and element and be able to explain how and why to use the display attribute to change an elements display type.
+
+* SWBAT center any html element, and be able to articulate why and how the centering technique differs for block vs inline elements.
+
+* SWBAT recognize good vs bad online frontend development resources, and be able to query such resources appropriately to find relevant help.
+
+* SWBAT apply twitter bootstrap, HTML5 boilerplate, and CSS resets to expedite their frontend design experience, while also being able to articulate the tradeoffs using these tools introduce.
+
+###SASS
 
 * running SASS in standalone
 * using SASS + compass in Sinatra
@@ -45,10 +54,14 @@ HTML/HAML + CSS/SASS (ashley)
 * selector inheritance in SASS
 * creating custom SASS helpers
 
+###ERB and HAML
+
 * ERB syntax
 * HAML syntax
 
-JS + JQUERY (ashley)
+###MARKDOWN
+
+##JS + JQUERY (ashley)
 
 * difference between js and jquery
 * using libraries - do it, but wisely; best practices
