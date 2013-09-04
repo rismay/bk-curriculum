@@ -97,16 +97,20 @@
 
 ### JAVASCRIPT FROM THE CONSOLE: STYLE AND BASICS
 
-#### Values, Variables, and Control flow
+* SWBAT employ capitalization appropriately when naming variables, functions, and objects, according to JS best practices.
+
+* SWBAT properly ident and format their code according to JS best practices.
+
+#### Values and Variables
 * SWBAT identify and use the `var` keyword to assign to variables the six basic types of values in JS: numbers, strings, Booleans, objects, functions, and undefined values.
 
 * SWBAT articulate the relationship between variables, their values, and the values as data in memory.
 
-* SWBAT perform basic arithmetic in simple JS programs and the JS console, using +, -, *, /, and %.
+* SWBAT perform basic arithmetic in simple JS programs and the JS console, using `+`, `-`, `*`, `/`, and `%`.
 
-* SWBAT differentiate between the use of ' and " for string values and be able to appropriately escape special characters using \ when required.
+* SWBAT differentiate between the use of `'` and `"` for string values and be able to appropriately escape special characters using `\` when required.
 
-* SWBAT identify and articulate the difference between unary and binary operators (e.g. typeof "x", vs 10 > 2).
+* SWBAT identify and articulate the difference between unary and binary operators (e.g. `typeof "x"`, vs `10 > 2`).
 
 * SWBAT use comparison operators to produce boolean values, and understand the assumptions Javascript makes for non-quantitative values (e.g. capital chars > lowercase chars).
 
@@ -119,6 +123,16 @@
 * SWBAT call JS functions, either named or anonymous, that take parameters, and be able to reliably predict and use the return values.
 
 * SWBAT employ the `prompt`, `confirm`, `alert` and `print` functions to create a simple console user interface.
+
+* SWBAT use shorthand to succinctly update variable values
+
+#### Control Flow
+
+* SWBAT employ the `if`, `while`, `do`, `for` and `switch` statements to conditionally control the flow of a simple javascript program.
+
+* SWBAT understand how and when to employ the `break` keyword to escape a loop.
+
+
 
 * data structures: objects + arrays
 * error handling
