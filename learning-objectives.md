@@ -83,6 +83,8 @@
 * difference between js and jquery
 * using libraries - do it, but wisely; best practices
 
+### JAVASCRIPT FROM THE CONSOLE: STYLE AND BASICS
+
 * values, variables, control flow
 * functions
 * data structures: objects + arrays
@@ -93,12 +95,16 @@
 
 * searching
 * modularity
+
+### JAVACSRIPT AND THE BROWSER/WEB
 * web programming
 * wtf is the DOM
 * browser events
 * review HTTP requests
 
 * JSON
+
+### JQUERY
 
 * jquery is terrible. long live jquery.
 * when to use jquery and why.
@@ -111,6 +117,7 @@
 
 * change markup NOT css
 
+### JAVASCRIPT LIBRARIES
 * templating with mustache
 * frontend MVCs
 * d3 or hi charts?
