@@ -1,0 +1,53 @@
+SWBAT list the features of Rails that do not exist in Sinatra.
+
+SWBAT list the features of Rails which exist in Sinatra but are more full featured or slightly different.
+
+SWBAT create instance and class methods in their models.
+
+SWBAT use PORO in the rails context.
+
+SWBAT write migrations to add/alter their database.
+
+SWBAT use a templating language to create views which render HTML
+
+SWBAT keep their code DRY by using partials in multiple views 
+
+SWBAT refactor their views by removing logic from views and into helpers
+
+SWBAT configure the asset pipeline to precompile their assets including SASS and Javascript.
+
+SWBAT debug asset pipeline errors.
+
+SWBAT create routes which use REST as a guideline and map to semantically named controllers models and views.
+
+SWBAT create mailers for emails which need to be sent by their applications.
+
+SWBAT create new instances of objects and persist them to the database.
+
+SWBAT post data using forms.
+
+SWBAT use rails view helpers such as form_for to dynamically generate HTML in their views.
+
+SWBAT create multiple routes which achieve the same goal and articulate the reasons for choosing one versus another.
+
+SWBAT use nested resources to RESTfully descrive the relationship between business objects in their application. 
+
+SWBAT pass data between requests using forms and URLs.
+
+SWBAT dynamically add HTML to their pages using Jquery.
+
+SWBAT describe the parts of Rails that break OOP guidelines.
+
+SWBAT describe the lifecycle of a request and which pieces of the Rails stack it touches along the way.
+
+SWBAT build a simple webserver.
+
+SWBAT list the types of things that are statically served and dynamically generated.
+
+SWBAT add Rack Middleware to an application and describe where Rack sits in the stack.
+
+SWBAT describe what RESTful architecture is.
+
+SWBAT map an HTTP verb and a URL to its path through the Rails stack.
+
+SWBAT debug rails applications using the ruby debugger or pry and chrome dev tools.

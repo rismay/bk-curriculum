@@ -1,0 +1,8 @@
+SWBAT write unit tests using rspec/minitest of the application models.
+
+SWBAT write tests for the code they wish they had, and then implement that code so that their tests pass.
+
+SWBAT articulate cases where testing is not useful, excessive, or doesn't deliver the value to justify its costs.
+
+SWBAT mock objects in their tests and stub methods and their return values on those objects.
+
