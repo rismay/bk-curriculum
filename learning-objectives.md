@@ -47,17 +47,23 @@
 
 * SWBAT recognize good vs bad online frontend development resources, and be able to query such resources appropriately to find relevant help.
 
-* SWBAT apply twitter bootstrap, HTML5 boilerplate, and CSS resets to expedite their frontend design experience, while also being able to articulate the tradeoffs using these tools introduce.
+* SWBAT apply twitter bootstrap, HTML5 boilerplate, and CSS resets to expedite their frontend design experience, while also being able to articulate the tradeoffs these tools introduce.
 
 ###SASS
 
-* running SASS in standalone
-* using SASS + compass in Sinatra
-* using SASS + compass in Rails
-* nesting selector syntax in Sinatra
-* SASS variables and mixins
-* selector inheritance in SASS
-* creating custom SASS helpers
+* SWBAT employ SASS as a tool to create maintainable, modular stylesheets by using the variable and mixin features.
+
+* SWBAT write and recognize SASS nested selector syntax and be able to articulate the performance vs readabiliy tradeoffs such a feature allows.
+
+* SWBAT refactor (DRY up) their stylesheets by employing SASS selector inheritance.
+
+* SWBAT architect a directory structure and run the SASS command from the terminal to successfully compile SASS/SCSS to CSS.
+
+* SWBAT architect a Sinatra web application to use SASS and COMPASS to produce CSS.
+
+* SWBAT architect a Rails web application to use SASS and COMPASS to produce CSS.
+
+* SWBAT creating custom SASS helpers
 
 ###ERB and HAML
 
