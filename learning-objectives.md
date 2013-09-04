@@ -97,8 +97,29 @@
 
 ### JAVASCRIPT FROM THE CONSOLE: STYLE AND BASICS
 
-* values, variables, control flow
-* functions
+#### Values, Variables, and Control flow
+* SWBAT identify and use the `var` keyword to assign to variables the six basic types of values in JS: numbers, strings, Booleans, objects, functions, and undefined values.
+
+* SWBAT articulate the relationship between variables, their values, and the values as data in memory.
+
+* SWBAT perform basic arithmetic in simple JS programs and the JS console, using +, -, *, /, and %.
+
+* SWBAT differentiate between the use of ' and " for string values and be able to appropriately escape special characters using \ when required.
+
+* SWBAT identify and articulate the difference between unary and binary operators (e.g. typeof "x", vs 10 > 2).
+
+* SWBAT use comparison operators to produce boolean values, and understand the assumptions Javascript makes for non-quantitative values (e.g. capital chars > lowercase chars).
+
+* SWBAT articulate the difference between expressions and statements and describe their relationship in the context of a simple program.
+
+* SWBAT define what a program's "environment" is, recognize the elements within a simple program that comprise its environment, and understand those things which can cause an environment to change.
+
+* SWBAT identify and write syntactically correct JS functions that are either named, or anonymous, which take parameters and return values.
+
+* SWBAT call JS functions, either named or anonymous, that take parameters, and be able to reliably predict and use the return values.
+
+* SWBAT employ the `prompt`, `confirm`, `alert` and `print` functions to create a simple console user interface.
+
 * data structures: objects + arrays
 * error handling
 
@@ -107,6 +128,7 @@
 
 * searching
 * modularity
+* side effects
 
 ### JAVACSRIPT AND THE BROWSER/WEB
 * web programming
