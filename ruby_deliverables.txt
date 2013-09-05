@@ -8,6 +8,11 @@ SWBAT dynamically evaluate Ruby code in a REPL using irb.
 SWBAT run ruby programs from the command line using the ruby executable.
 SWBAT assign a value to a local variable.
 
+Rubygems
+SWBAT install ruby gems.
+SWBAT find the source code for installed ruby gems.
+SWBAT require gems in programs they are using or add them to a Gemfile.
+
 Arrays and Hashes
 
 SWBAT manipulate arrays including adding data, removing data, indexing into them, sorting them, determining if an element is in an array.
@@ -71,10 +76,21 @@ SWBAT understand that there are classes that come with Ruby, and you can define 
 SWBAT describe the reason to create a class.
 SWBAT reopen and add methods to a class.
 SWBAT create a program that defines two classes and "links" them together calling methods on one class from within another class.
+SWBAT access a constant defined in a class nested in a module from another class.
+SWBAT distinguish between the value of self depending on the context.
+SWBAT create a class that inherits from another class.
+SWBAT override an inherited method.
+SWBAT call super with arguments in a "child" class.
+SWBAT call super without arguments in a "child" class.
+
+
 
 Modules
-
-Constants
+SWBAT create a module and include it into a class.
+SWBAT create a module and extend it in another class.
+SWBAT create both class and instance methods in a module.
+SWBAT not instantiate modules.
+SWBAT use a module for namespacing.
 
 ### PROGRAMMING BASICS, DATA STRUCTURES and ITERATION
 * variables
@@ -86,9 +102,6 @@ Constants
 * methods + parameters + return values
 * chaining
 * control flow structures
-
-
-
 
 ### OBJECTS
 * classes + objects + modules
