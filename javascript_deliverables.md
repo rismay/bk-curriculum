@@ -193,4 +193,3 @@
 
 * templating with mustache
 * frontend MVCs
-* d3 or hi charts?
