@@ -4,6 +4,11 @@
 - teacher
 - student
 
+## example applicaitons
+- [https://piazza.com](https://piazza.com)
+- [https://moodle.org/](https://moodle.org/)
+= [http://www.blackboard.com/](http://www.blackboard.com/)
+
 ## features
 
 ### days
