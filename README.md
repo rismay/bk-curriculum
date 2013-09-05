@@ -12,4 +12,4 @@ In this repo you will find:
  - notes: notes from meetings
  - `learning-objectives.md` is a listing of the general catergories and sub-categories to be taught
 
-For more information on this, please contact Ashley Williams, ashley at flatironschool dot com.
+For more information on this, please contact [Ashley Williams](http://twitter.com/ag_dubs).
