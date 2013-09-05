@@ -185,6 +185,12 @@
 
 * SWBAT articulate and intelligently engage with the current debate over progressive enhancement vs full frontend javascript framework usage.
 
+* SWBAT build and design interactive and dynamic maps using the Leaflet JS library, Stamen map tiles, and the Open Street Maps API.
+
+* SWBAT build simple interactive and dynamic data visualizations using HiCharts.
+
+* SWBAT build advanced interactive and dynamic data visualizaitons using D3.js.
+
 * templating with mustache
 * frontend MVCs
 * d3 or hi charts?
