@@ -163,15 +163,18 @@
 
 * SWBAT create new DOM nodes and append them to the DOM using `append/prepend`, `after/before`, `appendTo/prependTo`, and `insertBefore/insertAfter` methods.
 
-* SWBAT emply the `on` method to add an event handler to a DOM element.
+* SWBAT employ the `on` method to add an event handler to a DOM element, with or without event delegation.
 
 * SWBAT refactor event handlers that use selectors by converting them to traversals using `this` and `closest` to make their code more specific and maintainable.
 
 * SWBAT employ data tags to HTML elements to provide additional information about elements on a page and interact with them using the `data` method.
 
+* SWBAT DRY up and speed up their jQuery by storing jQuery objects that need to be used more than once in a variable, reducing the number of DOM queries.
 
+* SWBAT employ `addClass/removeClass/toggleClass` methods to modify the appearance of selected DOM elements.
 
-* add/remove/toggle class
+* SWBAT use the `filter` method to select only those elements that match a specific set of criteria.
+
 * callbacks lmao
 
 * change markup NOT css
