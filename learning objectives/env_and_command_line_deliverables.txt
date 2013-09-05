@@ -1,0 +1,9 @@
+SWBAT navigate the computer using the command line including changing directories and listing files.
+SWBAT explain what happens when they type commands at the command line.
+SWBAT customize their BASH profile including changing the PS1, adding any aliases that are useful and altering their PATH.
+SWBAT install and switch between different versions of Ruby.
+SWBAT create/move/alter/open files/folders from the command line.
+SWBAT find and search through files using the find and grep programs.
+SWBAT pipe output between programs.
+SWBAT edit files in vim using the basic navigation and editing commands in vim.
+SWBAT redirect output from a program to a file.
