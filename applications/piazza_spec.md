@@ -16,6 +16,8 @@
 
 ### resources
 - as a teacher i should be able to assign a resource to a day
+- as a teacher i should be able to remove a resource from a day
+- as a student i should be able to view the resources associated with a day
 
 ### schedule
 - as a teacher i should be able to add a schedule to a day
