@@ -1,0 +1,1 @@
+# Git Gallery - Application Spec
