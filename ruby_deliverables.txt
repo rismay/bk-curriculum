@@ -28,14 +28,6 @@ Nested data structures
 SWBAT iterate over one data structure that yields another enumerable object and iterate over those enumerable objects and applying supplying a block to the "inner loop" to be called on each step of the "inner loop".
 SWBAT add/remove/replace elements in deeply nested data structures while keeping track of the scope introduced by the iterators.
 
-### PROGRAMMING BASICS, DATA STRUCTURES and ITERATION
-* variables
-* what does dynamic typing mean?
-* arrays and hashes
-* negotiating complex data structures
-
-Enumerables
-
 Errors
 
 SWBAT handle errors gracefully.
@@ -54,12 +46,46 @@ SWBAT follow the flow of execution by accurately describing the flow of a progra
 SWBAT conditionally assign the value of a variable and return it.
 SWBAT use = for assignment and == for testing equality.
 SWBAT check to see if something is nothing || nil by calling the nil? method.
-SWBAT use the || operator.
+SWBAT use the || & && operator.
+SWBAT chain methods by having the first method return an object that responds to the second next method called.
+
+Literal Notation
+SWBAT instantiate an instance of an array by writing []
+SWBAT instantiate an instance of a string by writing ""
+SWBAT instantiate an instance of a hash by writing {}
+
+Objects
+
+SWBAT write methods that belong to an object rather than the top level Ruby object.
+SWBAT create a bare class.
+SWBAT create a class with an instance method.
+SWBAT recognize that everything in Ruby is an object
+SWBAT call instance methods on an instance of a class.
+SWBAT call class methods on a class.
+SWBAT create an instance variable and assign it a value.
+SWBAT create a class variable and assign it a value.
+SWBAT instantiate a class.
+SWBAT assign instance variables to the instance of the object in the initialize method and refer to them later.
+SWBAT assign instances of other objects to instance variables.
+SWBAT understand that there are classes that come with Ruby, and you can define your own, all follow the same rules.
+
+Modules
+
+Constants
+
+### PROGRAMMING BASICS, DATA STRUCTURES and ITERATION
+* variables
+* what does dynamic typing mean?
+* arrays and hashes
+* negotiating complex data structures
 
 ### METHODS
 * methods + parameters + return values
 * chaining
 * control flow structures
+
+
+
 
 ### OBJECTS
 * classes + objects + modules
