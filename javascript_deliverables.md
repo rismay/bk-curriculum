@@ -124,12 +124,28 @@
 * modules??
 
 ### JAVACSRIPT AND THE BROWSER/WEB
-* web programming
-* wtf is the DOM
-* browser events
-* review HTTP requests
 
-* JSON
+* SWBAT script a form in javascript.
+
+* SWBAT explain how a form is able to produce parameters that can be appended to a URI, and why doing such a thing would be useful.
+
+* SWBAT articulate a definition of the Document Object Model, identify nodes and content, and navigate the heirarchy of objects by understanding the parent/child/sibling relationship of the objects it's composed of.
+
+* SWBAT explore DOM elements using `getElementById` and `getElementByTagName`, create elements and text nodes using `createElement` and `createTextNode`, and get and set attributes of elements using `getAttribute` and `setAttribute`.
+
+* SWBAT manipulate elements by changing the values of the `className`, `style`, and `display` properties. 
+
+* SWBAT articulate how events occur in the browser, what bubbling up (propagation) is, and how to normalize such events.
+
+* SWBAT explain what it means to say javascript handles events in a 'single-threaded' way as opposed to 'multi-threaded'.
+
+* SWBAT register an event handler by either 1) setting a property of a node corresponding to the event name (e.g. `onClick`), or 2) using `attachEvent`.
+
+* SWBAT identify the difference between how Internet Explorer and other browsers handle event objects and recognize the purpose of `event || window.event`.
+
+* SWBAT recognize and write handlers for basic mouse-related and keyboard events, including `mouseup/down`, `click`, `pageX/Y`, `mouseover`, `mouseout`, `scrollleft/top/etc`, `keyup/down/press`. 
+
+* SWBAT create a simple request object in javascript that can handle HTML, XML, and JSON responses. 
 
 ### JQUERY
 
