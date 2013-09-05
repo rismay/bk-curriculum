@@ -83,14 +83,14 @@ SWBAT override an inherited method.
 SWBAT call super with arguments in a "child" class.
 SWBAT call super without arguments in a "child" class.
 
-
-
 Modules
 SWBAT create a module and include it into a class.
 SWBAT create a module and extend it in another class.
 SWBAT create both class and instance methods in a module.
 SWBAT not instantiate modules.
 SWBAT use a module for namespacing.
+
+
 
 ### PROGRAMMING BASICS, DATA STRUCTURES and ITERATION
 * variables
