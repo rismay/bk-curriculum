@@ -4,13 +4,14 @@
 
 * SWBAT identify the roles of HTML (content), CSS (styles), and JS (interaction), in the creation of a website and recognize and remedy classic antipatterns that demonstrate a conflation of these roles.
 
-* SWBAT write and recognize the syntax of element, id, class, and compound selectors and understand the DOM elements they apply to.
+* SWBAT write and recognize the syntax of element, id, class, compound, descendent, and child selectors and understand the DOM elements they apply to.
 
 * SWBAT employ specificity and location to properly control the cascade of their style declarations, and articulate this by employing a strategy that quantifies the priority of a selector based on its composition.
 
 * SWBAT position elements using both the float and position attributes, and be able to properly articulate the relationship positioned elements now have with other elements in the DOM.
 
 * SWBAT articulate historical attempts at clear solutions, identify them as anti-patterns, and successfully refactor them to properly implement the semantic cross-browser friendly clear fix. 
+
 * SWBAT employ an understanding of the box model attributes (content, padding, border, margin) to successfully space elements and predict element width and height.
 
 * SWBAT refactor (or DRY up) stylesheets by using inheritance, combining selectors, employing selector abstraction, and using display types.

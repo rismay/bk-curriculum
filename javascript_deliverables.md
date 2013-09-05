@@ -1,11 +1,5 @@
 ##JS + JQUERY
 
-* SWBAT articulate the relationship between javascript and the jQuery and explain what the tradeoffs are for using each.
-
-* SWBAT search for, evaluate and employ javascript libraries intelligently, with an eye towards performance, code maintainability, and user experience.
-
-* SWBAT articulate and intelligently engage with the current debate over progressive enhancement vs javascript MVC usage.
-
 ### JAVASCRIPT FROM THE CONSOLE: STYLE AND BASICS
 
 * SWBAT employ capitalization appropriately when naming variables, functions, and objects, according to JS best practices.
@@ -125,13 +119,15 @@
 
 ### JAVACSRIPT AND THE BROWSER/WEB
 
+* SWBAT explain how a browser builds the DOM based on HTML received from an HTTP request.
+
+* SWBAT articulate a definition of the Document Object Model, identify nodes and content, and navigate the heirarchy of objects by understanding the parent/child/sibling relationship of the objects it's composed of.
+
 * SWBAT script a form in javascript.
 
 * SWBAT explain how a form is able to produce parameters that can be appended to a URI, and why doing such a thing would be useful.
 
-* SWBAT articulate a definition of the Document Object Model, identify nodes and content, and navigate the heirarchy of objects by understanding the parent/child/sibling relationship of the objects it's composed of.
-
-* SWBAT explore DOM elements using `getElementById` and `getElementByTagName`, create elements and text nodes using `createElement` and `createTextNode`, and get and set attributes of elements using `getAttribute` and `setAttribute`.
+* SWBAT access DOM elements using `getElementById` and `getElementByTagName`, create elements and text nodes using `createElement` and `createTextNode`, and get and set attributes of elements using `getAttribute` and `setAttribute`.
 
 * SWBAT manipulate elements by changing the values of the `className`, `style`, and `display` properties. 
 
@@ -141,26 +137,51 @@
 
 * SWBAT register an event handler by either 1) setting a property of a node corresponding to the event name (e.g. `onClick`), or 2) using `attachEvent`.
 
-* SWBAT identify the difference between how Internet Explorer and other browsers handle event objects and recognize the purpose of `event || window.event`.
-
 * SWBAT recognize and write handlers for basic mouse-related and keyboard events, including `mouseup/down`, `click`, `pageX/Y`, `mouseover`, `mouseout`, `scrollleft/top/etc`, `keyup/down/press`. 
 
 * SWBAT create a simple request object in javascript that can handle HTML, XML, and JSON responses. 
 
 ### JQUERY
 
-* jquery is terrible. long live jquery.
-* when to use jquery and why.
-* review css selector syntax
-* parent/child ancestor/descendant relationship (review)
+* SWBAT articulate the relationship between javascript and the jQuery and explain what the tradeoffs are for using each.
+
+* SWBAT explain the difficulty of dealing with different browser's DOM interface and, at a high level, how jQuery alleviates this issue.
+
+* SWBAT download jQuery, load it into their HTML pages, and employ it in an internal or external script.
+
+* SWBAT use element, id, class, compound, descendent, and child CSS selectors to find elements in the DOM.
+
+* SWBAT use CSS-like pseudo classes to select only specific elements that are returned by a any CSS selector.
+
+* SWBAT use the `text` method to retrieve and update the content from/in text nodes.
+
+* SWBAT properly handle the `$(document).ready()` event to have their javascript run only after the DOM is fully built by the broswer.
+
+* SWBAT to explain the term 'traversing the DOM', break it down into its `selection` and `find` components, and explain the implementation and performance tradeoffs in using traversal vs selectors.
+
+* SWBAT to explain `walking the DOM` traversals using the `next`, `prev`, `parent`, and `child\`children` methods.
+
+* SWBAT create new DOM nodes and append them to the DOM using `append/prepend`, `after/before`, `appendTo/prependTo`, and `insertBefore/insertAfter` methods.
+
+* SWBAT emply the `on` method to add an event handler to a DOM element.
+
+* SWBAT refactor event handlers that use selectors by converting them to traversals using `this` and `closest` to make their code more specific and maintainable.
+
+* SWBAT employ data tags to HTML elements to provide additional information about elements on a page and interact with them using the `data` method.
+
+
+
 * add/remove/toggle class
-* append prepend before after
-* browser events in jquery
 * callbacks lmao
 
 * change markup NOT css
 
 ### JAVASCRIPT LIBRARIES
+
+* SWBAT search for, evaluate and employ javascript libraries intelligently, with an eye towards performance, code maintainability, and user experience.
+
+* SWBAT articulate and intelligently engage with the current debate over progressive enhancement vs full frontend javascript framework usage.
+
 * templating with mustache
 * frontend MVCs
 * d3 or hi charts?
